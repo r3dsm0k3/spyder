@@ -15,12 +15,14 @@ A program to download the Windows updates from the [ms-vnext](http://ms-vnext.ne
 
 #### Installation
 
-TODO
+```sh
+git clone https://github.com/r3dsm0k3/spyder.git
+pip install -r requirements.tx
+```
 
 #### Usage
 
-```python
-pip install -r requirements.tx
+```sh
 
 python spyder.py --query kb-number/filename
 ```
