@@ -29,7 +29,7 @@ python spyder.py --query kb-number/filename
 
 #### Example Usage
 
-```sh
+```
 # TRUSTED DOWNLOADS
 python spyder.py --query 3194343
 Trust confidence is HIGH for Windows10.0-KB3194343-x64.msu
